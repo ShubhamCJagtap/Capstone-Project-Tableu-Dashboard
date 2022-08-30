@@ -1,5 +1,5 @@
 
-# <img src="tableu.png" width="200" />&nbsp;&nbsp;&nbsp;Tableu Dashboard Project
+# <img src="/logo/tableu.png" width="200" />&nbsp;&nbsp;&nbsp;Tableu Dashboard Project
 
 *This Project is the Capstone Project of [INSAID](https://www.insaid.co/). All data has been provided by [INSAID](https://www.insaid.co/).*
 ![Symbol](https://www.insaid.co/wp-content/uploads/2019/09/logohalfx.png)
