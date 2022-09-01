@@ -5,7 +5,7 @@
 ![Symbol](https://www.insaid.co/wp-content/uploads/2019/09/logohalfx.png)
 
 ---
-
+## [`Go to project application`](https://telecom-dashboard-sj.herokuapp.com/)
 
 \
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
